@@ -23,4 +23,7 @@ A Scene (menu, level1, etc) handles all drawing of the above objects:
       private FingerLine fingerLine;
       private Stars stars;
     }
+    ```
+    
+<img src="https://zk7rma.am.files.1drv.com/y4mhvYQm34Tx_8s0ci2dpShu5Bv_chaA69d0ez7lC1eNwplCB-QC6stqYnk_wpgMYbWszGSaJOGqhuLXs6d7P7hasX8UH0eibHu4M3289GO9cOJzQIbt7A2QECBaF69nhd3ae63aQpKX3_ySVcXzDneDJR2rZwuJzZC1Is7TKBuoyHobPij0CMDuhnAgLaetMrKG4Fo51XHO8OxO1W5y4N-4Q?width=1024&height=493&cropmode=none" width="500">
     
